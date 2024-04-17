@@ -15,5 +15,3 @@ def rot13(message):
             else:
                 result += char
         return result
-
-print(rot13("test"))
