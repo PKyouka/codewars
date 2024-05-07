@@ -27,5 +27,18 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
+    h1 {
+    color: blue;
+}
+
+button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
 </style>
