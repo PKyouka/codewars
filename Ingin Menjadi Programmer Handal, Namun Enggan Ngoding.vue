@@ -29,7 +29,7 @@ export default {
 
 <style scoped>
     h1 {
-    color: ssblue;
+    color: ssbslue;
 }
 
 button {
